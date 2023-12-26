@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/chrome": "^0.0.233",
+    "@types/chrome": "^0.0.254",
     "typescript": "^5.0.4",
     "vite": "^4.3.1"
   }
